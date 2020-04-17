@@ -1,0 +1,18 @@
+{
+    "name": "okk-x/osparser",
+    "description": "Simple parser for collecting information about products from the online store",
+    "authors": [
+        {
+            "name": "Victoria Lozenko",
+            "email": "victoria.lozenko1@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "osparser\\": "src/"
+        }
+    }
+}
